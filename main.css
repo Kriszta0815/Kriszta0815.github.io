@@ -1,4 +1,3 @@
-
 html {
 
     background-image: url("img/Unbenannt.png");
@@ -55,11 +54,12 @@ html {
     }
     .navlist-item {
         display: inline-block;
-        padding: 10px;
+        padding: 10px 5px;
         transition: all 2s;
     }
     .navlist-item a {
         text-decoration: none;
+        padding: 10px 5px;
         transition: all 1s;
     }
     .navlist-item :hover {
@@ -103,4 +103,5 @@ html {
         color: rgb(144, 145, 150);
         box-shadow: 0 2rem 6rem rgba(0,0,0,0.3);
     }
+    
     
